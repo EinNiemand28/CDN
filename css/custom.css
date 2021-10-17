@@ -90,17 +90,17 @@ img {
 /* 自定义字体 */
 @font-face {
     font-family: 'shoushuti';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@1.0/ttf/ShouShuTi-2.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/ttf/ShouShuTi-2.ttf');
 
     font-family: 'consola';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@1.0/ttf/consola-1.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/ttf/consola-1.ttf');
 
     font-family: 'zhushiti';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@1.0/ttf/ZhuShiTi-Light-2.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/ttf/ZhuShiTi-Light-2.ttf');
 
     font-family: 'shouxieti';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@1.0/ttf/ShouXieTi-2.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/ttf/ShouXieTi-2.ttf');
 
     font-family: 'kaiti';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@1.0/ttf/KaiShuJian-2.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/ttf/KaiShuJian-2.ttf');
 }
