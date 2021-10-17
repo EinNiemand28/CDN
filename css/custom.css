@@ -41,12 +41,12 @@ svg.icon {
 
 /*鼠标样式*/
 body {
-    cursor: url(https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/cur/normal.cur),
+    cursor: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/cur/normal.cur'),
         default;
 }
 a,
 img {
-    cursor: url(https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/cur/text.cur),
+    cursor: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/cur/text.cur'),
         default;
 }
 
