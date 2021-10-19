@@ -90,13 +90,13 @@ img {
 /* 自定义字体 */
 @font-face {
     font-family: 'shoushuti';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/ttf/ShouShuTi-2.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ShouShuTi-2.ttf');
 
     font-family: 'zhushiti';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/ttf/ZhuShiTi-Light-2.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ZhuShiTi.ttf');
 
     font-family: 'shouxieti';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/ttf/ShouXieTi-2.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ShouXieTi-2.ttf');
 }
 /*
 @font-face { font-family:MyFont;
