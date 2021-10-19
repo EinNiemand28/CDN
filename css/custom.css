@@ -101,7 +101,7 @@ img {
 */
 @font-face {
     font-family:MyFont;
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN/ttf/ZhuShiTi-Light-2.ttf')
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ZhuShiTi.ttf')
 }
 body {
     font-family:MyFont!important;
