@@ -99,11 +99,7 @@ img {
     src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ShouXieTi-2.ttf');
 }
 */
-@font-face {
-    font-family:MyFont;
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ZhuShiTi.ttf')
-}
-body {
-    font-family:MyFont!important;
-    font-size: 20px;
-}
+@font-face { font-family:MyFont;
+src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ZhuShiTi.ttf')}
+body{font-family:MyFont!important;font-size:20px;}
+*/
