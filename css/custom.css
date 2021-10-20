@@ -104,3 +104,9 @@ img {
     font-family: 'FiraCode';
     src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/FiraCode-Regular.ttf');
 }
+body{
+    font-family: 'zhushiti';
+    font-size: 20px;
+    code-font-family: 'consola';
+    code-font-size: 15px;
+}
