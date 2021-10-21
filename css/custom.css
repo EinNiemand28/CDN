@@ -91,16 +91,20 @@ img {
 @font-face {
     font-family: 'consola';
     src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/consola.ttf');
-
+}
+@font-face {
     font-family: 'shoushuti';
     src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ShouShuTi-2.ttf');
-
+}
+@font-face {
     font-family: 'zhushiti';
     src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ZhuShiTi.ttf');
-
+}
+@font-face {
     font-family: 'RobotoMono';
     src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/RobotoMono.ttf');
-
+}
+@font-face {
     font-family: 'FiraCode';
     src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/FiraCode-Regular.ttf');
 }
