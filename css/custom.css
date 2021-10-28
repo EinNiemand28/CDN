@@ -1,7 +1,10 @@
 .author-info__name {
-    color: #BA55D3;
+    color: #00114C;
 }
 
+#page-header #site_title {
+    color: #00114C;
+}
 
 /*时间轴*/
 svg.icon {
@@ -19,6 +22,16 @@ svg.icon {
 
 #footer {
     background: transparent !important;
+}
+#footer.post-bg:before {
+     position: absolute;
+     top: 0;
+     left: 0;
+     display: block;
+     width: 100%;
+     height: 100%;
+     background: transparent !important; /*这个rgba可以自己改*/
+     content: '';
 }
 
 
