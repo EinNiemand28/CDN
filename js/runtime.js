@@ -26,11 +26,11 @@ setInterval(() => {
   if (second > 0) {
     time[4] = nol(second);
 }
-  if ((Number(time[2])<22) && (Number(time[2])>7)){
+  /*if ((Number(time[2])<22) && (Number(time[2])>7)){
     currentTimeHtml ="<img class='boardsign' src='https://cdn.jsdelivr.net/gh/EinNiemand28/my-img@master/images/营业.jpg' title='距离百年网站也就差不到一百年~'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
   }
   else{
     currentTimeHtml ="<img class='boardsign' src='https://cdn.jsdelivr.net/gh/EinNiemand28/my-img@master/images/打烊.jpg' title='这个点了应该去睡觉啦，熬夜对身体不好哦'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
-}
+}*/
   document.getElementById("workboard").innerHTML = currentTimeHtml;
 }, 1000);
