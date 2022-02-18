@@ -32,5 +32,6 @@ setInterval(() => {
   else{
     currentTimeHtml ="<img class='boardsign' src='https://cdn.jsdelivr.net/gh/EinNiemand28/my-img@master/images/打烊.jpg' title='这个点了应该去睡觉啦，熬夜对身体不好哦'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
 }*/
+  currentTimeHtml = time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
   document.getElementById("workboard").innerHTML = currentTimeHtml;
 }, 1000);
