@@ -98,8 +98,14 @@ img {
     src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ZhuShiTi.ttf');
 }
 @font-face {
+    font-family: 'youyuan'
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/YouYuan.ttf') format("truetype");
+}
+@font-face {
     font-family: 'RobotoMono';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/RobotoMono.ttf');
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/RobotoMono.ttf') format("truetype");
 }
 @font-face {
     font-family: 'FiraCode';
