@@ -125,7 +125,7 @@ body{
 }*/
 
 svg.icon {
-   width: 0.1em; height: 0.1em;
+   width: 1em; height: 1em;
    /* width和height定义图标的默认宽度和高度*/
    vertical-align: -0.15em;
    fill: currentColor;
