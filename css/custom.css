@@ -38,6 +38,11 @@
      content: '';
 }
 
+/*加载动画*/
+.loading-img {
+  background: url(https://cdn.jsdelivr.net/gh/EinNiemand28/my-img@master/images/avatar.jpg) no-repeat center center;
+  background-size: cover;
+}
 
 
 /*鼠标样式*/
