@@ -100,6 +100,7 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
 /*文章顶部图透明*/
 #page-header {
      background: transparent !important;
+     opacity: 0;
 }
 #page-header.post-bg:before {
      position: absolute;
@@ -109,6 +110,7 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
      width: 100%;
      height: 100%;
      background: transparent !important; /*这个rgba可以自己改*/
+     opacity: 0;
      content: '';
 }
 
