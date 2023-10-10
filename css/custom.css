@@ -1,9 +1,17 @@
-.author-info__name {
+/* .author-info__name {
     color: #00114C;
 }
 
 #page-header #site_title {
     color: #00114C;
+} */
+
+#nav-right{
+    flex:1 1 auto;
+    justify-content: flex-end;
+    margin-left: auto;
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 /* 文章页H1-H6图标样式效果 */
