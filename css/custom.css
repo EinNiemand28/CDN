@@ -5,7 +5,7 @@
 #page-header #site_title {
     color: #00114C;
 } */
-
+/* 导航栏居中 */
 #nav-right{
     flex:1 1 auto;
     justify-content: flex-end;
