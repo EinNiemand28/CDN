@@ -186,6 +186,10 @@ img {
     src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/consola.ttf');
 }
 @font-face {
+    font-family: 'consola-italic';
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/consola-italic.ttf');
+}
+@font-face {
     font-family: 'zhushiti';
     src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ZhuShiTi.ttf');
 }
