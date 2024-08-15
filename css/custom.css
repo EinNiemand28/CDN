@@ -183,15 +183,18 @@ img {
 /* 自定义字体 */
 @font-face {
     font-family: 'consola';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/consola.ttf');
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/consola.ttf') format("truetype");
 }
 @font-face {
     font-family: 'consola-italic';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/consola-italic.ttf');
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/consola-italic.ttf') format("truetype");
 }
 @font-face {
     font-family: 'zhushiti';
-    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ZhuShiTi.ttf');
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/ZhuShiTi.ttf') format("truetype");
 }
 @font-face {
     font-family: 'youyuan';
@@ -205,6 +208,7 @@ img {
 }
 @font-face {
     font-family: 'FiraCode';
+    font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/EinNiemand28/CDN@latest/ttf/FiraCode-Regular.ttf');
 }
 /*
